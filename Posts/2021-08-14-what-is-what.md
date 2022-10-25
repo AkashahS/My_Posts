@@ -23,5 +23,10 @@ AI is frequently used interchangeably with ML, but artificial intelligence is a 
 ## Machine Learning (ML)
 
 Machine learning is an imitation of human learning. It makes computers capable of automatically learning from data and improve from experience.
+Machines can intelligently answer different types of problems just like humans. 
+
+- Yes/No Questions: like Is this email spam or not? Is this car blue or not? In ML language yes/no problem is called a binary classification problem.  
+- Options Questions: For example, is this spam or an important email? Is this car blue or red? Options can be two or more. Like, Is this car blue or red or yellow?In machine learning these problems are called multi-class classification problems.
+- Specific Questions: Like, How much does the house costs? What is the allocated budget for fuel? When an answer is not as discrete as yes/no or any particular group, in other words, it is a continous variable then the problem is called a regression problem.    
 
 
