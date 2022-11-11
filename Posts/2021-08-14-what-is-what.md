@@ -3,7 +3,7 @@ layout: post
 title: What is What in Machine Learning (ML)?
 subtitle: Easy Introduction to Machine Learning 
 cover-img: /assets/img/ml_post.jpg
-thumbnail-img: /assets/img/ML_thumb.png
+thumbnail-img: /assets/img/ml_thumb.png
 share-img: /assets/img/ml_post.jpg
 tags: [ML]
 comments: true
